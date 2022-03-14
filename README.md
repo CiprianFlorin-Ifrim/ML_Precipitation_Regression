@@ -1,1 +1,1 @@
-"# ML_precipitation_regression" 
+Machine Learning Regression Models, able to be ported to Arduino with micromlgen, trained on historial data samples, that use weather features to forecast rainfall amount.
