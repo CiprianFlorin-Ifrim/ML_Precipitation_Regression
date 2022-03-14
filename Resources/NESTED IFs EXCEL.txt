@@ -1,0 +1,1 @@
+=IF(AD2="Rain",1,IF(AD2="Partially Cloudy",2,IF(AD2="Overcast",3,IF(AD2="Clear",0,IF(AD2="Snow",4)))))
