@@ -1,0 +1,12 @@
+Mean Squared Error: 10.864585997261134
+
+Root Mean Squared Error: 3.2961471443582635
+
+Mean Absolute Error: 1.5386228453200883
+
+Mean Deviation Error: 0.13534776
+
+R2 Score - Uniform Average: 0.20713905315032022
+
+R2 Score - Variance Weighted: 0.20713905315032022
+
